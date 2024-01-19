@@ -1,0 +1,9 @@
+Package: codes.aurora.athena
+Name: Athena
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stacked t-t-t-time style.
+Maintainer: Alexandra Aurora Göttlicher
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
